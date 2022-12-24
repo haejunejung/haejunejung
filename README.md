@@ -24,3 +24,7 @@ You can enter the blog that records the things I studied by clicking the logo be
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/></a>
 </p>
+
+### Baekjoon
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gowns9422)](https://solved.ac/gowns9422)
