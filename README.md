@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="https://user-images.githubusercontent.com/99087502/209429463-3034390d-d2d5-4c04-9744-0c46cd1d155a.svg" width="30" height="30">
+    
+
+
 <!--
 **haejunejung/haejunejung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
