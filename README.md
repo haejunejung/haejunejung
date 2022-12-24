@@ -1,7 +1,7 @@
 ### Blog 👋
 You can enter the blog that records the things I studied by clicking the logo below!
 <p>
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white" width="50" height="30"/><a href="https://haejunejung.github.io/" target="_self"></a> 
+    <a href="https://haejunejung.github.io/" target="_self"><img src="https://img.shields.io/badge/HaeJune's Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a> 
 </p>
 
 ### Skills 👋
