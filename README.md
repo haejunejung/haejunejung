@@ -1,7 +1,4 @@
 <!DOCTYPE html>
-<style>
-
-</style>
 <html>
 
 ### 🔥***HaeJune's Github***🔥
